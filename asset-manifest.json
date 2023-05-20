@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ruppleChat/static/css/main.cfdc01d0.css",
-    "main.js": "/ruppleChat/static/js/main.6590250c.js",
+    "main.js": "/ruppleChat/static/js/main.866f81e6.js",
     "static/js/787.88fdffe4.chunk.js": "/ruppleChat/static/js/787.88fdffe4.chunk.js",
     "static/media/Google__G__Logo.svg.png": "/ruppleChat/static/media/Google__G__Logo.svg.f34acd08a40efe59187f.png",
     "static/media/defaultUser.webp": "/ruppleChat/static/media/defaultUser.0e39c3e155653bbaa022.webp",
@@ -9,11 +9,11 @@
     "static/media/stereofunk-webfont.woff2": "/ruppleChat/static/media/stereofunk-webfont.eef36e1404d4dafca9e5.woff2",
     "index.html": "/ruppleChat/index.html",
     "main.cfdc01d0.css.map": "/ruppleChat/static/css/main.cfdc01d0.css.map",
-    "main.6590250c.js.map": "/ruppleChat/static/js/main.6590250c.js.map",
+    "main.866f81e6.js.map": "/ruppleChat/static/js/main.866f81e6.js.map",
     "787.88fdffe4.chunk.js.map": "/ruppleChat/static/js/787.88fdffe4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfdc01d0.css",
-    "static/js/main.6590250c.js"
+    "static/js/main.866f81e6.js"
   ]
 }
