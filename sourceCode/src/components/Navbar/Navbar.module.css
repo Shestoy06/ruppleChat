@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'stereofunkdisplay';
+  src: url('../../fonts/stereofunk-webfont.woff2') format('woff2'),
+  url('../../fonts/stereofunk-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.header {
+  min-height: 65px;
+  background-color: #212121;
+  display: flex;
+  align-items: center;
+
+}
+
+.info {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding-left: 20px;
+  justify-content: space-between;
+  height: 40px;
+  gap: 30px;
+  padding-right: 30px;
+}
+
+@media(max-width: 360px) {
+  .info{
+    padding-right: 20px;
+
+  }
+}
+
+.logo {
+  font-family: 'stereofunkdisplay';
+  font-size: 25px;
+}
+
+.login, .logout {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #79128b;
+  color: #fff;
+  border: none;
+  text-transform: uppercase;
+
+
+}
+
+@media(max-width: 370px) {
+  .withLove  {
+    max-width: 80px;
+  }
+}
